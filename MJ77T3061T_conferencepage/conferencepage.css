@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.conference-home-imaage {
+    width: 100vw;
+
+}
+
+.conference-home-heading {
+    font-family: "Roboto";
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.conference-home-para {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.conference-home-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.conference-home-padding {
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+}
+
+.conference-home-button {
+    font-size: 14px;
+
+}
+
+.conference-details-video {
+    height: 50vh;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.conference-details-heading {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.conference-details-para {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 14px;
+    text-align: center;
+}
+
+.conference-details-container {
+    margin-top: 20px;
+}
+
+.conference-details-container2 {
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
+.conference-details-container3 {
+    margin-right: 80px;
+}
+
+.conference-details-button {
+    text-align: center;
+    padding: 5px;
+}

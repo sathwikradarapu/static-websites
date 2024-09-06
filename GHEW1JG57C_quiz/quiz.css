@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.quiz-background {
+    background-color: #875fc0;
+    background-size: cover;
+}
+
+.quiz-heading {
+    color: white;
+    text-align: right;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.quiz-card1 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.quiz-card1-para1 {
+    font-family: "Roboto";
+    color: #1f2933;
+}
+
+.quiz-card1-para2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.quiz-card1-para3 {
+    font-size: 15px;
+}
+
+.quiz-card1-image {
+    border-radius: 5px;
+    width: 240px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.quiz-card1-boxes {
+    border-radius: 5px;
+    border-color: #1f2933;
+    background-color: #ffffff;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.quiz-card2-para1 {
+    font-family: "Roboto";
+    color: #1f2933;
+    padding: 10px;
+}
+
+.quiz-card2-para3 {
+    background-color: #875fc0;
+    color: #ffffff;
+    border-radius: 5px;
+    border-color: #1f2933;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.quiz-card2-button {
+    background-color: #fbaf00;
+    color: white;
+    height: 36px;
+    width: 90px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-bottom: 10px;
+}
+
+.quiz-card2 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+.align {
+    text-align: center;
+}
+
+.padding {
+    padding: 15px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.list2 {
+    text-align: center;
+}
+
+.listall {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 7px;
+}
+
+.listall2 {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #875fc0;
+    color: #ffffff;
+    margin-bottom: 7px;
+}

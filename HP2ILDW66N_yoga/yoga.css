@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.yoga-home-background {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.yoga-home-heading {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 23px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 35px;
+}
+
+.yoga-home-image {
+    height: 230px;
+    width: 200px;
+}
+
+.yoga-home-heading2 {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 15px;
+    text-align: center;
+}
+
+.yoga-home-button {
+    color: #fad693;
+    background-color: #132d84;
+    font-family: "Roboto";
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 0px;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.yoga-home-button-align {
+    text-align: center;
+}
+
+.yoga-details-background {
+    background-color: #ffedcb;
+    background-size: cover;
+}
+
+.yoga-details-image1 {
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.yoga-details-heading1 {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.yoga-details-card {
+    background-color: #ffe2ab;
+    border-radius: 10px;
+}
+
+.yoga-details-image2 {
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+
+.yoga-details-heading2 {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.yoga-details-heading3 {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.yoga-details-card-padding {
+    padding: 10px;
+}
+
+.yoga-details-padding {
+    padding: 15px;
+}
+
+.yoga-details-margin {
+    margin-bottom: 15px;
+}

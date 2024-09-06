@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-home-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 40vh;
+    background-size: cover;
+}
+
+.podcast-home-image-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-weight: normal;
+}
+
+.podcast-home-image2 {
+    height: 130px;
+    width: 130px;
+    border-radius: 5px;
+}
+
+.podcast-home-heading2 {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.podcast-home-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 17px;
+    text-align: center;
+}
+
+.podcast-home-padding {
+    padding: 15px;
+}
+
+.podcast-home-margin {
+    margin-bottom: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.podcast-puri-background {
+    background-color: #151765;
+    height: 35vh;
+    background-size: cover;
+}
+
+.podcast-puri-para1 {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: white;
+}
+
+.podcast-puri-heading1 {
+    font-family: "Roboto";
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.podcast-puri-margin {
+    margin-left: 8px;
+}
+
+.podcast-puri-padding {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.podcast-puri-heading2 {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.podcast-puri-para2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 17px;
+    margin-top: 0px;
+}
+
+.podcast-puri-para3 {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #5a7184;
+    margin-top: 0px;
+}
+
+.podcast-puri-button {
+    text-align: right;
+}
+
+.podcast-puri-button2 {
+    color: white;
+    background-color: #151765;
+    border-radius: 20px;
+    width: 80px;
+}
+
+.podcast-puri-padding2 {
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+.podcast-puri-box {
+    margin-bottom: 15px;
+}

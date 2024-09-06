@@ -1,0 +1,1798 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.myprojects-image1 {
+    height: 180px;
+    width: 230px;
+}
+
+.myprojects-heading {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.myprojects-para {
+    font-family: "Bree Serif";
+    color: #616e7c;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.myprojects-image2 {
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.myprojects-padding {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 20px;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #5752ab;
+    font-size: 23px;
+}
+
+.para {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.button {
+    height: 36px;
+    width: 130px;
+    background-color: white;
+    color: #171f46;
+    border-color: #d7dfe9;
+    font-size: 15px;
+    font-family: "Roboto";
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    margin: 10px;
+}
+
+.button2 {
+    height: 36px;
+    width: 60px;
+    color: #ffffff;
+    border-color: #d7dfe9;
+    font-size: 15px;
+    font-family: "Roboto";
+    border-radius: 5px;
+    margin: 10px;
+    background-color: blue;
+    border-width: 0px;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.diwali-top {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');
+    background-size: cover;
+    height: 30vh;
+}
+
+.diwali-top-heading {
+    color: white;
+    font-family: "Caveat";
+    font-weight: normal;
+    font-size: 35px;
+    padding: 25px;
+    width: 200px;
+}
+
+.diwali-bottom {
+    background-color: #e6f6ff;
+    padding: 20px;
+    height: 90vh;
+}
+
+.diwali-bottom-card {
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    width: 100px;
+    margin: 15px;
+}
+
+.diwali-bottom-card-image {
+    height: 80px;
+    width: 80px;
+}
+
+.diwali-bottom-card-heading {
+    font-size: 15px;
+    font-weight: normal;
+    color: grey;
+    font-style: "Roboto";
+}
+
+.diwali-bottom-card-paragraph {
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    font-style: "Roboto";
+}
+
+.buttonx {
+    text-align: center;
+    margin-left: 10px;
+}
+
+.imagek {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.cardk {
+    background-color: #f6c56e;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-width: 0px;
+    padding: 20px;
+}
+
+.headingk {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #323f4b;
+}
+
+.parak {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.buttonk {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    border-radius: 5px;
+    font-size: 13px;
+    border-width: 0px;
+    height: 36px;
+    width: 120px;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+.imagec {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.cardc {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 15px;
+}
+
+.para1c {
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.para2c {
+    font-size: 12px;
+}
+
+.para3c {
+    font-size: 11px;
+}
+
+.headingc {
+    font-size: 16px;
+    color: black;
+}
+
+.buttonc {
+    color: #ffffff;
+    background-color: #323f4b;
+    border-radius: 5px;
+    border-width: 0px;
+    height: 36px;
+    width: 100px;
+    font-size: 11px;
+    font-family: "Roboto";
+    margin-right: 10px;
+}
+
+.imagechat {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    background-size: cover;
+}
+
+.headingchat {
+    text-align: center;
+    background-color: #52606d;
+    font-family: Roboto;
+    color: white;
+    padding: 15px;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.pchat {
+    padding: 20px;
+}
+
+.commonchat {
+    color: white;
+    font-family: "Roboto";
+    padding: 5px;
+    font-size: 15px;
+}
+
+.message-sentchat {
+    background-color: #47a3f3;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: right;
+    padding: 10px;
+}
+
+.message-receivedchat {
+    background-color: #52606d;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 10px;
+}
+
+.imagetodo {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.headertodo {
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+}
+
+.paratodo {
+    color: white;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+
+}
+
+.fonttodo {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.font2todo {
+    color: white;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.buttontodo {
+    text-align: center;
+}
+
+.button2todo {
+    background-color: orange;
+    color: white;
+    font-family: Roboto;
+    height: 35px;
+    width: 65px;
+    font-size: 15px;
+}
+
+.font3todo {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-family: Roboto;
+    font-size: 10px;
+}
+
+.mobile-image {
+    width: 100vw;
+    height: 50vh;
+}
+
+.mobile-heading {
+    color: #0a1f44;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mobile-padding {
+    padding: 20px;
+}
+
+.mobile-list {
+    color: #0a1f44;
+    font-size: 15px;
+}
+
+.mobile-border {
+    border-left-color: #707070;
+    border-right-color: #707070;
+    border-bottom-color: #707070;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.mobile-button {
+    text-align: center;
+}
+
+.mobile-list-margin {
+    margin-top: 5px;
+}
+
+.homeimage {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.homecard1 {
+    text-align: center;
+    background-color: white;
+    border-width: 0px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 7px;
+}
+
+.homeheading {
+    font-family: "Roboto";
+    font-size: 39px;
+    font-weight: normal;
+}
+
+.homepara {
+    font-family: "Roboto";
+}
+
+.homebutton {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.main {
+    padding: 5px;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+
+}
+
+.favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.favourite-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.Tajmahalimage {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    background-size: cover;
+    padding: 1px;
+}
+
+.Tajmahalheading {
+    font-size: 30px;
+    font-family: "Roboto";
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.Tajmahalcard {
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-width: 0px;
+    margin: 25px;
+}
+
+.Tajmahalheading2 {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+.Tajmahalpara {
+    color: grey;
+    font-size: 15px;
+    font-family: bold;
+    font-family: "Roboto";
+}
+
+.Tajmahaltext {
+    padding: 20px;
+}
+
+.imagehotel {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.cardhotel {
+    border-radius: 20px;
+    background-color: #000000;
+    padding: 15px;
+    margin: 5px;
+
+}
+
+.headinghotel {
+    font-family: "Bree Serif";
+    font-size: 23px;
+    color: white;
+}
+
+.parahotel {
+    font-family: "Roboto";
+    color: white;
+}
+
+.sizehotel {
+    font-size: 12px;
+}
+
+.size2hotel {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.texthotel {
+    text-align: center;
+}
+
+.buttonhotel {
+    background-color: white;
+    color: black;
+    font-family: "Roboto";
+    font-size: 12px;
+    border-radius: 10px;
+    height: 36px;
+    width: 100px;
+    border-width: 0px;
+    margin: 20px;
+}
+
+.conference-home-imaage {
+    width: 100vw;
+
+}
+
+.conference-home-heading {
+    font-family: "Roboto";
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.conference-home-para {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.conference-home-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.conference-home-padding {
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+}
+
+.conference-home-button {
+    font-size: 14px;
+
+}
+
+.conference-details-video {
+    height: 50vh;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.conference-details-heading {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.conference-details-para {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 14px;
+    text-align: center;
+}
+
+.conference-details-container {
+    margin-top: 20px;
+}
+
+.conference-details-container2 {
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
+.conference-details-container3 {
+    margin-right: 80px;
+}
+
+.conference-details-button {
+    text-align: center;
+    padding: 5px;
+}
+
+.movie-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+    background-size: cover;
+}
+
+.movie-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.movie-button {
+    background-color: white;
+    color: orange;
+    border-radius: 5px;
+    border-width: 0px;
+    font-size: 13px;
+    padding: 5px;
+    width: 90px;
+}
+
+.movie-para {
+    color: white;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.movie-para2 {
+    color: white;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+
+.movie-image2 {
+    height: 120px;
+    width: 100px;
+}
+
+.movie-padding {
+    padding: 25px;
+}
+
+.movie-margin {
+    margin-top: 10px;
+}
+
+.movie-margin-right {
+    margin-right: 10px;
+}
+
+.headinggoa {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.paragraphgoa {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #9aa5b1;
+}
+
+.imagegoa {
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.paddinggoa {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.margingoa {
+    margin: 3px;
+}
+
+.heading2goa {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.padding2goa {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+}
+
+.padding3goa {
+
+    padding-left: 20px;
+}
+
+.heading1co {
+    color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.buttonco {
+    font-size: 15px;
+}
+
+.cardco {
+    border-radius: 7px;
+    background-color: #0967d219;
+    padding: 10px;
+    margin: 10px;
+}
+
+.paragraphco {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.image2co {
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+
+.card2co {
+    background-color: #3ebd93;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+.card3co {
+    background-color: #e668a7;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.card4co {
+    background-color: #a368fc;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.paragraph2co {
+    color: white;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.card5co {
+    border-radius: 7px;
+    background-color: #e12d3919;
+    padding: 10px;
+}
+
+.paddingco {
+    padding: 8px;
+}
+
+.border-radiusco {
+    border-style: solid;
+    border-width: 8px;
+    border-color: #0967d219;
+}
+
+.topkl {
+    background-color: #fb4e71;
+    padding: 15px;
+}
+
+.top-headingkl {
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.top-parakl {
+    color: white;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.bottomkl {
+    background-color: #e6f6ff;
+}
+
+.bottom-headingkl {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.bottom-cardkl {
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 15px;
+    height: 120px;
+}
+
+.bottom-heading2kl {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.bottom-parakl {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.bottom-card-paddingkl {
+    padding: 10px;
+}
+
+.bottom-image2kl {
+    height: 90px;
+    width: 95px;
+    border-radius: 5px;
+}
+
+.bottom-para2kl {
+    color: black;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.bottom-paddingkl {
+    padding: 20px;
+}
+
+.button-marginkl {
+    margin: 30px;
+}
+
+.bottom-marginkl {
+    margin: 10px;
+}
+
+.buttonkl {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.bottom-layout2kl {
+    width: 90px;
+    margin-right: 15px;
+}
+
+.quiz-background {
+    background-color: #875fc0;
+    background-size: cover;
+}
+
+.quiz-heading {
+    color: white;
+    text-align: right;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.quiz-card1 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.quiz-card1-para1 {
+    font-family: "Roboto";
+    color: #1f2933;
+}
+
+.quiz-card1-para2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.quiz-card1-para3 {
+    font-size: 15px;
+}
+
+.quiz-card1-image {
+    border-radius: 5px;
+    width: 240px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.quiz-card1-boxes {
+    border-radius: 5px;
+    border-color: #1f2933;
+    background-color: #ffffff;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.quiz-card2-para1 {
+    font-family: "Roboto";
+    color: #1f2933;
+    padding: 10px;
+}
+
+.quiz-card2-para3 {
+    background-color: #875fc0;
+    color: #ffffff;
+    border-radius: 5px;
+    border-color: #1f2933;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.quiz-card2-button {
+    background-color: #fbaf00;
+    color: white;
+    height: 36px;
+    width: 90px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-bottom: 10px;
+}
+
+.quiz-card2 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+.align {
+    text-align: center;
+}
+
+.padding {
+    padding: 15px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.list2 {
+    text-align: center;
+}
+
+.listall {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 7px;
+}
+
+.listall2 {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #875fc0;
+    color: #ffffff;
+    margin-bottom: 7px;
+}
+
+.imageab {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.mainab {
+    font-family: "Bree Serif";
+    font-size: 10px;
+    padding: 10px;
+    color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #48ee59;
+    background-color: #00000080;
+    margin: 20px;
+    font-size: 35px;
+    padding: 40px;
+}
+
+.articles-home-background {
+    background-color: #225db0;
+    background-size: cover;
+    height: 95vh;
+}
+
+.articles-home-heading {
+    color: #ffffff;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-size: 30px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.articles-home-para {
+    color: #ffffff;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.articles-home-card {
+    background-color: #ffffff;
+    width: 120px;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.articles-home-card-image {
+    padding-top: 15px;
+    height: 50px;
+    width: 40px;
+}
+
+.articles-home-card-para {
+    color: #1f2933;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.articles-home-card-padding {
+    margin-top: 25px;
+    padding-left: 20px;
+}
+
+.articles-tech-heading {
+    color: #ffffff;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.articles-tech-list {
+    color: #ffffff;
+}
+
+.articles-tech-list2 {
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.articles-tech-padding {
+    padding: 20px;
+}
+
+.articles-tech-button {
+    text-align: center;
+}
+
+.articles-tech-button2 {
+    background-color: #225db0;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 10px;
+    border-width: 1px;
+    border-color: #ffffff;
+    width: 50px;
+    height: 25px;
+}
+
+.articles-tech-background {
+    background-color: #225db0;
+    background-size: cover;
+    height: 95vh;
+}
+
+.yoga-home-background {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.yoga-home-heading {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 23px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 35px;
+}
+
+.yoga-home-image {
+    height: 230px;
+    width: 200px;
+}
+
+.yoga-home-heading2 {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 15px;
+    text-align: center;
+}
+
+.yoga-home-button {
+    color: #fad693;
+    background-color: #132d84;
+    font-family: "Roboto";
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 0px;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.yoga-home-button-align {
+    text-align: center;
+}
+
+.yoga-details-background {
+    background-color: #ffedcb;
+    background-size: cover;
+}
+
+.yoga-details-image1 {
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.yoga-details-heading1 {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.yoga-details-card {
+    background-color: #ffe2ab;
+    border-radius: 10px;
+}
+
+.yoga-details-image2 {
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+
+.yoga-details-heading2 {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.yoga-details-heading3 {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.yoga-details-card-padding {
+    padding: 10px;
+}
+
+.yoga-details-padding {
+    padding: 15px;
+}
+
+.yoga-details-margin {
+    margin-bottom: 15px;
+}
+
+.flat-home-bgcontainer {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.flat-home-layout {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.flat-home-layout-heading {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #f19116;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.flat-home-layout-para {
+    color: #6b6c70;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 13px;
+}
+
+.flat-home-layout-button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 12px;
+    height: 25px;
+    width: 90px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.flat-home-layout-button2 {
+    text-align: center;
+}
+
+.flat-details-bgcontainer {
+    background-color: #222222;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.flat-details-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #f19116;
+}
+
+.flat-details-layout {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 150px;
+}
+
+.flat-details-layout-width {
+    width: 80px;
+}
+
+.flat-details-heading2 {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #0f0e46;
+}
+
+.flat-details-para {
+    color: #6b6c70;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.flat-details-textcontainer {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.flat-details-padding {
+    padding: 15px;
+}
+
+.flat-details-margin {
+    margin-bottom: 15px;
+}
+
+.flat-3bhk-image {
+    width: 100vw;
+    height: 40vh;
+}
+
+.flat-3bhk-image2 {
+    width: 30px;
+    height: 20px;
+}
+
+.flat-3bhk-para {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.flat-3bhk-line {
+    width: 10px;
+}
+
+.flat-3bhk-button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 12px;
+    height: 25px;
+    width: 90px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.flat-3bhk-line {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.flat-details-bgcontainer2 {
+    background-color: #222222;
+    background-size: cover;
+    width: 100vw;
+    height: 60vh;
+}
+
+.store-top {
+    background-color: #894bca;
+    background-size: cover;
+    height: 100vh;
+}
+
+.store-top-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    width: 90px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.store-top-image {
+    height: 30vh;
+    width: 150px;
+}
+
+.store-bottom {
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: white;
+    background-size: cover;
+    height: 70vh;
+}
+
+.store-bottom-heading {
+    color: #f780c3;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.store-bottom-image {
+    height: 45px;
+    width: 45px;
+}
+
+.store-bottom-heading2 {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.store-bottom-para {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.store-bottom-card {
+    margin-left: 15px;
+}
+
+.store-bottom-card2 {
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.foundations-background {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/foundations-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.foundations-card {
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.foundations-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.foundations-card-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.foundations-card-image2 {
+    height: 40px;
+    width: 40px;
+    padding-top: 10px;
+}
+
+.foundations-card-border {
+    border-color: #cbd2d9;
+    border-style: solid;
+    border-width: 1px;
+    width: 120px;
+    border-radius: 10px;
+    height: 80px;
+}
+
+.foundations-card-border-align {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.foundations-card-border-padding {
+    padding-left: 20px;
+}
+
+.foundations-card-border-margin {
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.music-home-background {
+    background-color: #03174c;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.music-home-background2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    height: 50vh;
+    background-size: cover;
+}
+
+.music-home-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    text-align: center;
+}
+
+.music-home-para {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    text-align: center;
+}
+
+.music-home-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    height: 130px;
+    width: 230px;
+}
+
+.music-home-image-heading {
+    color: #ffe7bf;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    padding: 45px;
+}
+
+.music-home-para2 {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    width: 230px;
+    text-align: center;
+
+}
+
+.button-align {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.button-music {
+    background-color: #8e97fd;
+    color: white;
+    font-family: "Bree Serif";
+    border-width: 0px;
+    border-radius: 20px;
+    font-size: 12px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 80px;
+}
+
+.music-details-image {
+    height: 30vh;
+    width: 100vw;
+}
+
+.music-details-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.music-home-details {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.music-home-details2 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 17px;
+}
+
+.music-details-image2 {
+    width: 150px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.music-details-padding {
+    padding: 20px;
+}
+
+.button-music2 {
+    background-color: #8e97fd;
+    color: white;
+    font-family: "Bree Serif";
+    border-width: 0px;
+    border-radius: 20px;
+    font-size: 12px;
+    width: 100px;
+    height: 30px;
+}
+
+.bookstore-home-background {
+    background-color: #1b1b1b;
+    height: 100vh;
+}
+
+.bookstore-home-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.bookstore-home-card1 {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #e6f6ff;
+    height: 150px;
+}
+
+.bookstore-home-card1-heading {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 15px;
+}
+
+.bookstore-home-card1-para {
+    font-family: "Bree Serif";
+    color: #06070d;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.bookstore-home-card1-para2 {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.bookstore-home-card1-button {
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.bookstore-home-heading2 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.bookstore-home-card2 {
+    border-radius: 5px;
+    border-width: 0px;
+    height: 130px;
+    margin-bottom: 10px;
+}
+
+.bookstore-home-image {
+    width: 80px;
+}
+
+.bookstore-home-card2-heading {
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    font-size: 15px;
+}
+
+.bookstore-home-card2-para {
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    font-size: 10px;
+}
+
+.bookstore-home-padding {
+    padding: 15px;
+}
+
+.bookstore-home-card1-textcontainer {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bookstore-home-card2-textcontainer {
+    padding-left: 10px;
+}
+
+.bookstore-wingsoffire-card1 {
+    height: 260px;
+    width: 170px;
+    padding-top: 20px;
+}
+
+.bookstore-wingsoffire-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.bookstore-wingsoffire-para {
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    font-size: 10px;
+}
+
+.bookstore-wingsoffire-para2 {
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    font-size: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.bookstore-wingsoffire-textalign {
+    text-align: center;
+}
+
+.podcast-home-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 40vh;
+    background-size: cover;
+}
+
+.podcast-home-image-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-weight: normal;
+}
+
+.podcast-home-image2 {
+    height: 130px;
+    width: 130px;
+    border-radius: 5px;
+}
+
+.podcast-home-heading2 {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.podcast-home-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 17px;
+    text-align: center;
+}
+
+.podcast-home-padding {
+    padding: 15px;
+}
+
+.podcast-home-margin {
+    margin-bottom: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.podcast-puri-background {
+    background-color: #151765;
+    height: 35vh;
+    background-size: cover;
+}
+
+.podcast-puri-para1 {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: white;
+}
+
+.podcast-puri-heading1 {
+    font-family: "Roboto";
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.podcast-puri-margin {
+    margin-left: 8px;
+}
+
+.podcast-puri-padding {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.podcast-puri-heading2 {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.podcast-puri-para2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 17px;
+    margin-top: 0px;
+}
+
+.podcast-puri-para3 {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #5a7184;
+    margin-top: 0px;
+}
+
+.podcast-puri-button {
+    text-align: right;
+}
+
+.podcast-puri-button2 {
+    color: white;
+    background-color: #151765;
+    border-radius: 20px;
+    width: 80px;
+}
+
+.podcast-puri-padding2 {
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+.podcast-puri-box {
+    margin-bottom: 15px;
+}
